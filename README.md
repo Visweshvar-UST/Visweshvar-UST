@@ -1,5 +1,5 @@
-<img align="right" alt="coding" height="250" width="100%" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/Professional%20LinkedIn%20Banner.gif">
-<!-- <img align="right" alt="coding" height="250" width="100%" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/Professional%20LinkedIn%20Banner.png"> -->
+<img align="right" alt="coding" height="250" width="100%" src="https://github.com/Visweshvar-UST/Random-resources/blob/main/Professional%20LinkedIn%20Banner.gif">
+<!-- <img align="right" alt="coding" height="250" width="100%" src="https://github.com/Visweshvar-UST/Random-resources/blob/main/Professional%20LinkedIn%20Banner.png"> -->
 
 <!-- 
 # 💫 About Me: -->
@@ -10,9 +10,9 @@
  <!-- 
 <div align="center">
 
- ![](https://komarev.com/ghpvc/?username=Visweshvar-Axel&style=plastic&color=blue)
+ ![](https://komarev.com/ghpvc/?username=Visweshvar-UST&style=plastic&color=blue)
  
- ![](https://komarev.com/ghpvc/?username=Visweshvar-Axel&style=plastic&color=blue) 
+ ![](https://komarev.com/ghpvc/?username=Visweshvar-UST&style=plastic&color=blue) 
  
  </div>
  -->
@@ -46,7 +46,7 @@
 
 # 💻 Tech Stack:
 
-<img align="right" alt="coding" heignt="500" width="200" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/man%20walking.gif">
+<img align="right" alt="coding" heignt="500" width="200" src="https://github.com/Visweshvar-UST/Random-resources/blob/main/man%20walking.gif">
 
 <!-- ## Skills and experience -->
 ### programming language 
@@ -89,7 +89,7 @@
 ![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=github&logoColor=white)
 ![Web Development Badge](https://img.shields.io/badge/-Web%20Development-4285F4?style=flat&logo=HTML5&logoColor=white)
 
-<img align="right" alt="coding" heignt="500" width="200" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/train.gif">
+<img align="right" alt="coding" heignt="500" width="200" src="https://github.com/Visweshvar-UST/Random-resources/blob/main/train.gif">
 
 ### CI / CD
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
@@ -101,7 +101,7 @@
 ### database
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 
-<img align="right" alt="coding" heignt="500" width="200" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/parrot.gif">
+<img align="right" alt="coding" heignt="500" width="200" src="https://github.com/Visweshvar-UST/Random-resources/blob/main/parrot.gif">
 
 ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 
@@ -141,23 +141,23 @@
 # 📊 GitHub Stats:
 
 <!-- <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Visweshvar-Axel&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400"/>
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Visweshvar-Axel&theme=dark&hide_border=true" alt="GitHub Streak" width="400"/>
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Visweshvar-Axel&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="400"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Visweshvar-UST&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400"/>
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Visweshvar-UST&theme=dark&hide_border=true" alt="GitHub Streak" width="400"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Visweshvar-UST&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="400"/>
 </div> -->
 
   
-![](https://github-readme-stats.vercel.app/api?username=Visweshvar-Axel&theme=transparent&hide_border=true&border_radius=4.3&card_width=400&card_height=200)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Visweshvar-Axel&theme=transparent&hide_border=true&border_radius=4.3&card_width=400&card_height=200)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Visweshvar-Axel&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=900)
+![](https://github-readme-stats.vercel.app/api?username=Visweshvar-UST&theme=transparent&hide_border=true&border_radius=4.3&card_width=400&card_height=200)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Visweshvar-UST&theme=transparent&hide_border=true&border_radius=4.3&card_width=400&card_height=200)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Visweshvar-UST&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=900)
 
 ## 🏆 GitHub Trophies
-<!-- ![](https://github-profile-trophy.vercel.app/?username=Visweshvar-Axel&theme=radical&no-frame=true&no-bg=true&margin-w=4) -->
-![](https://github-profile-trophy.vercel.app/?username=Visweshvar-Axel&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=visweshvar-axel" alt="visweshvar-axel" /></a> </p> -->
+<!-- ![](https://github-profile-trophy.vercel.app/?username=Visweshvar-UST&theme=radical&no-frame=true&no-bg=true&margin-w=4) -->
+![](https://github-profile-trophy.vercel.app/?username=Visweshvar-UST&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Visweshvar-UST" alt="Visweshvar-UST" /></a> </p> -->
 
 <!-- ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Visweshvar-Axel&limit=5&theme=oldie&combine_all_yearly_contributions=true) -->
+![](https://github-contributor-stats.vercel.app/api?username=Visweshvar-UST&limit=5&theme=oldie&combine_all_yearly_contributions=true) -->
 
 ---
 
@@ -170,8 +170,8 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Visweshvar-Axel&icon=6&color=1)](https://visitcount.itsvg.in)
-<!-- [![](https://visitcount.itsvg.in/api?id=Visweshvar-Axel&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=Visweshvar-Axel&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in) -->
+[![](https://visitcount.itsvg.in/api?id=Visweshvar-UST&icon=6&color=1)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=Visweshvar-UST&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Visweshvar-UST&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
