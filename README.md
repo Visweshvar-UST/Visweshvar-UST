@@ -1,11 +1,23 @@
-<img align="right" alt="coding" height="250" width="100%" src="https://github.com/Visweshvar-UST/Random-resources/blob/main/Professional%20LinkedIn%20Banner.gif">
-<!-- <img align="right" alt="coding" height="250" width="100%" src="https://github.com/Visweshvar-UST/Random-resources/blob/main/Professional%20LinkedIn%20Banner.png"> -->
+<img align="right" alt="coding" height="250" width="100%" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/Linkedin/UST%20Professional%20Linkedin%20Banner%20(2).gif">
+<!-- <img align="right" alt="coding" height="250" width="100%" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/Professional%20LinkedIn%20Banner.png"> -->
 
 <!-- 
 # 💫 About Me: -->
 
- <div align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hey+there!+%F0%9F%91%8B;I'm+VISWESHVAR" alt="Typing SVG" /></a> <!--Hey there! 👋, I'm VISWESHVAR --></div>
-<h3 align="center">An enthusiastic Indian developer keen on challenges in DSA, debugging, Java, Modern C++, Python, and web development. Exploring BERT NLP, AI, and ML. Turning ideas into epic projects! 💫🚀 Welcome to my GitHub profile, where you can explore some of my projects and contributions to the coding community.</h3>
+<div align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hey+there!+%F0%9F%91%8B;I'm+VISWESHVAR" alt="Typing SVG" /></a> <!--Hey there! 👋, I'm VISWESHVAR --></div>
+<h3 align="center">👨‍💻 Software Developer I @ <a href="https://www.ust.com/">UST Global</a> | Java Full Stack Developer | React with TypeScript
+Passionate about building robust applications and solving complex problems with clean, efficient code. Exploring BERT NLP, AI, and ML to push boundaries and create innovative solutions.
+<div align="left">
+
+ 🔧 **Tech Stack:**
+
+- **Frontend:** React.js, TypeScript, JavaScript
+- **Backend:** Spring Boot, Spring Security, NestJS
+- **Testing:** JUnit, TestNG, Mockito
+
+</div>
+ 💫🚀 Welcome to my GitHub profile, where you can explore some of my projects and contributions to the coding community.</h3>
+
 
  <!-- 
 <div align="center">
