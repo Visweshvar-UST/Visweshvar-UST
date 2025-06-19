@@ -1,4 +1,4 @@
-<img align="right" alt="Visweshvar R Github" height="250" width="100%" src="https://github.com/Visweshvar-UST/Random-resources/blob/main/linkedin/UST%20Professional%20Linkedin%20Banner%20(2).gif">
+<img align="right" alt="Visweshvar R Github" height="250" width="100%" src="https://github.com/Visweshvar-UST/Random-resources/blob/main/linkedin/visweshvar-r-portfolio-ust-banner.gif">
 <!-- <img align="right" alt="coding" height="250" width="100%" src="https://github.com/Visweshvar-Axel/Random-resources/blob/main/Professional%20LinkedIn%20Banner.png"> -->
 
 <!-- 
